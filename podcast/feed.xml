@@ -44,25 +44,5 @@ Conclusao-chave: os Tipo 2 aprendem cedo demais que "o meu valor e o que faco pe
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://privacidade.eneaspirit.com/podcast/cover/Dk3kNe1IwlcL.png" />
     </item>
-    <item>
-      <title>EneaSpirit BOOKS #1 — A Sabedoria do Eneagrama</title>
-      <description><![CDATA[Estreia da nova seccao semanal EneaSpirit BOOKS: todas as semanas abrimos UM livro da biblioteca EneaSpirit e trazemos-te os conceitos essenciais em menos de 10 minutos.
-
-Episodio 1: "A Sabedoria do Eneagrama", de Don Richard Riso & Russ Hudson (Cultrix) — a simbologia do Eneagrama, Essencia vs Personalidade, o mapa Paixao -> Fixacao -> Ideia Superior -> Virtude, as tres triades, e um spotlight no Tipo 2.
-
-Complementa o episodio principal "Tipo 2: O Ajudante" com a base teorica do Eneagrama.]]></description>
-      <itunes:summary><![CDATA[Estreia da nova seccao semanal EneaSpirit BOOKS: todas as semanas abrimos UM livro da biblioteca EneaSpirit e trazemos-te os conceitos essenciais em menos de 10 minutos.
-
-Episodio 1: "A Sabedoria do Eneagrama", de Don Richard Riso & Russ Hudson (Cultrix) — a simbologia do Eneagrama, Essencia vs Personalidade, o mapa Paixao -> Fixacao -> Ideia Superior -> Virtude, as tres triades, e um spotlight no Tipo 2.
-
-Complementa o episodio principal "Tipo 2: O Ajudante" com a base teorica do Eneagrama.]]></itunes:summary>
-      <pubDate>Fri, 19 Jun 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ivnKrBFZ9PSP</guid>
-      <enclosure url="https://privacidade.eneaspirit.com/podcast/media/ivnKrBFZ9PSP.mp3" length="12168044" type="audio/mpeg" />
-      <itunes:episode>2</itunes:episode>
-      <itunes:duration>09:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://privacidade.eneaspirit.com/podcast/cover/ivnKrBFZ9PSP.png" />
-    </item>
 </channel>
 </rss>
