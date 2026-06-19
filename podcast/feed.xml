@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>EneaSpirit Podcast</title>
+  <link>https://eneaspirit.com</link>
+  <atom:link href="https://privacidade.eneaspirit.com/podcast/feed.xml" rel="self" type="application/rss+xml" />
+  <language>pt-PT</language>
+  <description><![CDATA[A Espiritualidade da Materia. Uma jornada pelos tipos do Eneagrama cruzada com a Gnose — psicologia, sombra e o caminho do chumbo ao ouro. Episodios semanais.]]></description>
+  <itunes:author>EneaSpirit</itunes:author>
+  <itunes:summary><![CDATA[A Espiritualidade da Materia. Uma jornada pelos tipos do Eneagrama cruzada com a Gnose — psicologia, sombra e o caminho do chumbo ao ouro. Episodios semanais.]]></itunes:summary>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:owner>
+    <itunes:name>EneaSpirit</itunes:name>
+    <itunes:email>garrido.rui@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://privacidade.eneaspirit.com/podcast/cover/show-eneaspirit-podcast.png" />
+  <itunes:category text="Religion &amp; Spirituality" />
+  <itunes:category text="Health &amp; Fitness" />
+    <item>
+      <title>Tipo 2: O Ajudante | EneaSpirit Podcast</title>
+      <description><![CDATA[Nesta primeira semana de uma jornada de 9 episodios pelos tipos do Eneagrama, mergulhamos no Tipo 2 — O Ajudante.
+
+Os Tipo 2 sao as pessoas generosas e empaticas da tua vida — mas muitas vezes lutam com limites e autocuidado.
+
+O que vais encontrar: as motivacoes e medos centrais, o lado sombra e o caminho para o burnout, a integracao com o Tipo 8 (limites saudaveis), uma pratica de 5 minutos ("Pedir Sem Pedir Desculpa") e a ligacao Gnostica: o caminho de redencao do Tipo 2.
+
+Conclusao-chave: os Tipo 2 aprendem cedo demais que "o meu valor e o que faco pelos outros". O caminho para a saude? "Eu importo, simplesmente por existir."]]></description>
+      <itunes:summary><![CDATA[Nesta primeira semana de uma jornada de 9 episodios pelos tipos do Eneagrama, mergulhamos no Tipo 2 — O Ajudante.
+
+Os Tipo 2 sao as pessoas generosas e empaticas da tua vida — mas muitas vezes lutam com limites e autocuidado.
+
+O que vais encontrar: as motivacoes e medos centrais, o lado sombra e o caminho para o burnout, a integracao com o Tipo 8 (limites saudaveis), uma pratica de 5 minutos ("Pedir Sem Pedir Desculpa") e a ligacao Gnostica: o caminho de redencao do Tipo 2.
+
+Conclusao-chave: os Tipo 2 aprendem cedo demais que "o meu valor e o que faco pelos outros". O caminho para a saude? "Eu importo, simplesmente por existir."]]></itunes:summary>
+      <pubDate>Fri, 19 Jun 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">Dk3kNe1IwlcL</guid>
+      <enclosure url="https://privacidade.eneaspirit.com/podcast/media/Dk3kNe1IwlcL.mp3" length="10215404" type="audio/mpeg" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>20:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://privacidade.eneaspirit.com/podcast/cover/Dk3kNe1IwlcL.png" />
+    </item>
+    <item>
+      <title>EneaSpirit BOOKS #1 — A Sabedoria do Eneagrama</title>
+      <description><![CDATA[Estreia da nova seccao semanal EneaSpirit BOOKS: todas as semanas abrimos UM livro da biblioteca EneaSpirit e trazemos-te os conceitos essenciais em menos de 10 minutos.
+
+Episodio 1: "A Sabedoria do Eneagrama", de Don Richard Riso & Russ Hudson (Cultrix) — a simbologia do Eneagrama, Essencia vs Personalidade, o mapa Paixao -> Fixacao -> Ideia Superior -> Virtude, as tres triades, e um spotlight no Tipo 2.
+
+Complementa o episodio principal "Tipo 2: O Ajudante" com a base teorica do Eneagrama.]]></description>
+      <itunes:summary><![CDATA[Estreia da nova seccao semanal EneaSpirit BOOKS: todas as semanas abrimos UM livro da biblioteca EneaSpirit e trazemos-te os conceitos essenciais em menos de 10 minutos.
+
+Episodio 1: "A Sabedoria do Eneagrama", de Don Richard Riso & Russ Hudson (Cultrix) — a simbologia do Eneagrama, Essencia vs Personalidade, o mapa Paixao -> Fixacao -> Ideia Superior -> Virtude, as tres triades, e um spotlight no Tipo 2.
+
+Complementa o episodio principal "Tipo 2: O Ajudante" com a base teorica do Eneagrama.]]></itunes:summary>
+      <pubDate>Fri, 19 Jun 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">ivnKrBFZ9PSP</guid>
+      <enclosure url="https://privacidade.eneaspirit.com/podcast/media/ivnKrBFZ9PSP.mp3" length="12168044" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>09:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://privacidade.eneaspirit.com/podcast/cover/ivnKrBFZ9PSP.png" />
+    </item>
+</channel>
+</rss>
