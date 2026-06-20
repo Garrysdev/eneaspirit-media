@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8">
+  <title>TikTok Auth — EneaSpirit</title>
+</head>
+<body>
+  <p>A autorizar com o TikTok…</p>
+  <script>
+    // Recebe o code do TikTok e reencaminha para o servidor local
+    window.location.replace('http://localhost:4490/callback' + window.location.search);
+  </script>
+</body>
+</html>
