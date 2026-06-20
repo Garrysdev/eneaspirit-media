@@ -6,7 +6,7 @@
 <channel>
   <title>EneaSpirit BOOKS</title>
   <link>https://eneaspirit.com</link>
-  <atom:link href="https://privacidade.eneaspirit.com/podcast/feed.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://privacidade.eneaspirit.com/podcast/books.xml" rel="self" type="application/rss+xml" />
   <language>pt-PT</language>
   <description><![CDATA[Todas as semanas abrimos um livro da biblioteca EneaSpirit — Eneagrama, espiritualidade, mitologia e autoconhecimento — e trazemos os conceitos essenciais em poucos minutos, ligados ao tema da semana. A Espiritualidade da Materia.]]></description>
   <itunes:author>EneaSpirit</itunes:author>
