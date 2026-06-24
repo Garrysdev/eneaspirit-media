@@ -6,7 +6,7 @@
 <channel>
   <title>EneaSpirit ACADEMY</title>
   <link>https://eneaspirit.com</link>
-  <atom:link href="https://privacidade.eneaspirit.com/podcast/feed.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://eneaspirit.com/podcast/feed.xml" rel="self" type="application/rss+xml" />
   <language>pt-PT</language>
   <description><![CDATA[A Espiritualidade da Materia. Uma jornada pelos tipos do Eneagrama cruzada com a Gnose — psicologia, sombra e o caminho do chumbo ao ouro. Episodios semanais.]]></description>
   <itunes:author>EneaSpirit</itunes:author>
@@ -17,9 +17,67 @@
     <itunes:name>EneaSpirit</itunes:name>
     <itunes:email>garrido.rui@gmail.com</itunes:email>
   </itunes:owner>
-  <itunes:image href="https://privacidade.eneaspirit.com/podcast/cover/show-eneaspirit-podcast.png" />
+  <itunes:image href="https://eneaspirit.com/podcast/cover/show-eneaspirit-podcast.png" />
   <itunes:category text="Religion &amp; Spirituality" />
   <itunes:category text="Health &amp; Fitness" />
+    <item>
+      <title>Tipo 3: O Realizador | EneaSpirit Podcast</title>
+      <description><![CDATA[Nesta semana abrimos o Tipo 3 do Eneagrama — O Realizador.
+
+O 3 é a pessoa que entra numa sala e faz toda a gente acreditar que é possível. Foco, energia, eficiência, confiança que levanta os outros. Mas há uma crença formada cedo que poucos conhecem: "sou amado pelo que alcanço — não por quem sou."
+
+O que vais encontrar neste episódio:
+– As motivações e medos centrais do Tipo 3
+– Os dons reais e a sombra: o auto-engano e a máscara que se cola à cara
+– A leitura gnóstica do "mundo-espelho" (o Demiurgo que exige performance eterna)
+– A integração com o Tipo 6: do êxito que prova ao êxito que serve
+– Prática iniciática: "O Inventário Sem Plateia" (5 minutos, para ti)
+
+Pergunta da semana: Quem és tu quando ninguém aplaude?]]></description>
+      <itunes:summary><![CDATA[Nesta semana abrimos o Tipo 3 do Eneagrama — O Realizador.
+
+O 3 é a pessoa que entra numa sala e faz toda a gente acreditar que é possível. Foco, energia, eficiência, confiança que levanta os outros. Mas há uma crença formada cedo que poucos conhecem: "sou amado pelo que alcanço — não por quem sou."
+
+O que vais encontrar neste episódio:
+– As motivações e medos centrais do Tipo 3
+– Os dons reais e a sombra: o auto-engano e a máscara que se cola à cara
+– A leitura gnóstica do "mundo-espelho" (o Demiurgo que exige performance eterna)
+– A integração com o Tipo 6: do êxito que prova ao êxito que serve
+– Prática iniciática: "O Inventário Sem Plateia" (5 minutos, para ti)
+
+Pergunta da semana: Quem és tu quando ninguém aplaude?]]></itunes:summary>
+      <pubDate>Fri, 26 Jun 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">VYb_OkbMBezl</guid>
+      <enclosure url="https://eneaspirit.com/podcast/media/VYb_OkbMBezl.mp3" length="5096304" type="audio/mpeg" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>26:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://eneaspirit.com/podcast/cover/VYb_OkbMBezl.png" />
+    </item>
+    <item>
+      <title>EneaSpirit BOOKS #2 — O Drama da Criança Sobredotada</title>
+      <description><![CDATA[EneaSpirit BOOKS #2 — todas as semanas, um livro da biblioteca EneaSpirit em menos de 15 minutos.
+
+Esta semana: "O Drama da Criança Sobredotada", de Alice Miller.
+
+Um livro que fala diretamente ao Tipo 3: a criança que aprendeu a performar para ser amada, construindo um "falso self" de êxito e imagem. Miller mostra como a grandiosidade e o vazio interno são duas faces da mesma moeda — e como o caminho para a saúde passa por reencontrar a criança verdadeira, aquela que existe antes de qualquer conquista.
+
+Complementa o episódio principal "Tipo 3: O Realizador" desta semana.]]></description>
+      <itunes:summary><![CDATA[EneaSpirit BOOKS #2 — todas as semanas, um livro da biblioteca EneaSpirit em menos de 15 minutos.
+
+Esta semana: "O Drama da Criança Sobredotada", de Alice Miller.
+
+Um livro que fala diretamente ao Tipo 3: a criança que aprendeu a performar para ser amada, construindo um "falso self" de êxito e imagem. Miller mostra como a grandiosidade e o vazio interno são duas faces da mesma moeda — e como o caminho para a saúde passa por reencontrar a criança verdadeira, aquela que existe antes de qualquer conquista.
+
+Complementa o episódio principal "Tipo 3: O Realizador" desta semana.]]></itunes:summary>
+      <pubDate>Fri, 26 Jun 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">RZ-QvAoMCVNp</guid>
+      <enclosure url="https://eneaspirit.com/podcast/media/RZ-QvAoMCVNp.mp3" length="4957200" type="audio/mpeg" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>18:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://eneaspirit.com/podcast/cover/RZ-QvAoMCVNp.png" />
+    </item>
     <item>
       <title>Tipo 2: O Ajudante | EneaSpirit Podcast</title>
       <description><![CDATA[Nesta primeira semana de uma jornada de 9 episodios pelos tipos do Eneagrama, mergulhamos no Tipo 2 — O Ajudante.
@@ -38,11 +96,11 @@ O que vais encontrar: as motivacoes e medos centrais, o lado sombra e o caminho 
 Conclusao-chave: os Tipo 2 aprendem cedo demais que "o meu valor e o que faco pelos outros". O caminho para a saude? "Eu importo, simplesmente por existir."]]></itunes:summary>
       <pubDate>Fri, 19 Jun 2026 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">Dk3kNe1IwlcL</guid>
-      <enclosure url="https://privacidade.eneaspirit.com/podcast/media/Dk3kNe1IwlcL.mp3" length="10215404" type="audio/mpeg" />
+      <enclosure url="https://eneaspirit.com/podcast/media/Dk3kNe1IwlcL.mp3" length="10215404" type="audio/mpeg" />
       <itunes:episode>1</itunes:episode>
       <itunes:duration>20:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://privacidade.eneaspirit.com/podcast/cover/Dk3kNe1IwlcL.png" />
+      <itunes:image href="https://eneaspirit.com/podcast/cover/Dk3kNe1IwlcL.png" />
     </item>
 </channel>
 </rss>
