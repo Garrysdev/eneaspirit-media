@@ -40,5 +40,29 @@ Complementa o episodio principal "Tipo 2: O Ajudante" com a base teorica do Enea
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://eneaspirit.com/podcast/cover/ivnKrBFZ9PSP.png" />
     </item>
+    <item>
+      <title>EneaSpirit BOOKS #2 — O Drama da Criança Sobredotada</title>
+      <description><![CDATA[EneaSpirit BOOKS #2 — todas as semanas, um livro da biblioteca EneaSpirit em menos de 15 minutos.
+
+Esta semana: "O Drama da Criança Sobredotada", de Alice Miller.
+
+Um livro que fala diretamente ao Tipo 3: a criança que aprendeu a performar para ser amada, construindo um "falso self" de êxito e imagem. Miller mostra como a grandiosidade e o vazio interno são duas faces da mesma moeda — e como o caminho para a saúde passa por reencontrar a criança verdadeira, aquela que existe antes de qualquer conquista.
+
+Complementa o episódio principal "Tipo 3: O Realizador" desta semana.]]></description>
+      <itunes:summary><![CDATA[EneaSpirit BOOKS #2 — todas as semanas, um livro da biblioteca EneaSpirit em menos de 15 minutos.
+
+Esta semana: "O Drama da Criança Sobredotada", de Alice Miller.
+
+Um livro que fala diretamente ao Tipo 3: a criança que aprendeu a performar para ser amada, construindo um "falso self" de êxito e imagem. Miller mostra como a grandiosidade e o vazio interno são duas faces da mesma moeda — e como o caminho para a saúde passa por reencontrar a criança verdadeira, aquela que existe antes de qualquer conquista.
+
+Complementa o episódio principal "Tipo 3: O Realizador" desta semana.]]></itunes:summary>
+      <pubDate>Fri, 17 Jul 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">RZ-QvAoMCVNp</guid>
+      <enclosure url="https://eneaspirit.com/podcast/media/RZ-QvAoMCVNp.mp3" length="4957200" type="audio/mpeg" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>18:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://eneaspirit.com/podcast/cover/RZ-QvAoMCVNp.png" />
+    </item>
 </channel>
 </rss>
