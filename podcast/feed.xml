@@ -21,6 +21,40 @@
   <itunes:category text="Religion &amp; Spirituality" />
   <itunes:category text="Health &amp; Fitness" />
     <item>
+      <title>Tipo 5: O Investigador | EneaSpirit Podcast</title>
+      <description><![CDATA[Nesta semana abrimos o Tipo 5 do Eneagrama — O Investigador.
+
+O 5 recolhe-se para dentro da mente: lê, observa, investiga, constrói sistemas de compreensão cada vez mais sofisticados — porque foi ali, na mente, que primeiro encontrou um lugar onde ninguém lhe podia tirar nada.
+
+O que vais encontrar neste episódio:
+– As motivações e medos centrais do Tipo 5
+– Os dons reais e a sombra: a avareza de recursos, o desligamento, o conhecimento como fuga
+– A leitura gnóstica da biblioteca fechada e o ouro escondido sob o silêncio
+– A integração com o Tipo 8: da observação à ação
+– Prática iniciática para o Investigador
+
+Pergunta da semana: Se hoje decidisses agir antes de perceber tudo, o que mudarias?]]></description>
+      <itunes:summary><![CDATA[Nesta semana abrimos o Tipo 5 do Eneagrama — O Investigador.
+
+O 5 recolhe-se para dentro da mente: lê, observa, investiga, constrói sistemas de compreensão cada vez mais sofisticados — porque foi ali, na mente, que primeiro encontrou um lugar onde ninguém lhe podia tirar nada.
+
+O que vais encontrar neste episódio:
+– As motivações e medos centrais do Tipo 5
+– Os dons reais e a sombra: a avareza de recursos, o desligamento, o conhecimento como fuga
+– A leitura gnóstica da biblioteca fechada e o ouro escondido sob o silêncio
+– A integração com o Tipo 8: da observação à ação
+– Prática iniciática para o Investigador
+
+Pergunta da semana: Se hoje decidisses agir antes de perceber tudo, o que mudarias?]]></itunes:summary>
+      <pubDate>Fri, 10 Jul 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="false">rdXpBMK_UlG1</guid>
+      <enclosure url="https://privacidade.eneaspirit.com/podcast/media/rdXpBMK_UlG1.mp3" length="5821200" type="audio/mpeg" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>20:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://privacidade.eneaspirit.com/podcast/cover/rdXpBMK_UlG1.png" />
+    </item>
+    <item>
       <title>Tipo 4: O Individualista | EneaSpirit Podcast</title>
       <description><![CDATA[Nesta semana abrimos o Tipo 4 do Eneagrama — O Individualista.
 
@@ -111,31 +145,6 @@ Conclusao-chave: os Tipo 2 aprendem cedo demais que "o meu valor e o que faco pe
       <itunes:duration>20:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://privacidade.eneaspirit.com/podcast/cover/Dk3kNe1IwlcL.png" />
-    </item>
-    <item>
-      <title>Ep. 0 — O que é o Eneagrama (e porque interessa) | EneaSpirit Podcast</title>
-      <description><![CDATA[Bem-vindos ao primeiro episódio do podcast EneaSpirit.
-
-Hoje apresentamos o mapa que vai guiar as próximas semanas: o Eneagrama.
-
-O Eneagrama não é só mais um teste de personalidade. É um sistema de 9 arquétipos que começa pelo medo — o medo nuclear de cada tipo — e a partir daí organiza tudo: a motivação, o padrão de relação, os talentos, as sombras.
-
-O que vais encontrar neste episódio:
-– O que é o Eneagrama (e o que não é)
-– Os 9 tipos: uma apresentação de cada arquétipo
-– Chumbo e ouro: a linguagem alquímica do sistema
-– A Espiritualidade na Matéria: o que isto tem a ver com acordar
-
-Na próxima semana: Tipo 1 — O Reformador.]]></description>
-      <itunes:summary><![CDATA[Bem-vindos ao primeiro episódio do podcast EneaSpirit. Apresentamos o Eneagrama — os 9 tipos, o chumbo e o ouro, e a linguagem alquímica do autoconhecimento. O mapa que vai guiar as próximas semanas.]]></itunes:summary>
-      <pubDate>Fri, 26 Jun 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">HVV_4mAINS2t</guid>
-      <enclosure url="https://privacidade.eneaspirit.com/podcast/media/HVV_4mAINS2t.m4a" length="54482589" type="audio/x-m4a" />
-      <itunes:episode>0</itunes:episode>
-      <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:duration>28:12</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://privacidade.eneaspirit.com/podcast/cover/HVV_4mAINS2t.png" />
     </item>
 </channel>
 </rss>
